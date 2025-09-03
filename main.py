@@ -1,5 +1,5 @@
 # title: ComfyUI Universal Advanced
-# author: theJSN
+# author: theJSN https://github.com/pupphelper/Openwebui-ComfyUI-Universal-Advanced
 # inspired by Haervwe https://github.com/Haervwe/open-webui-tools
 # version: 17.1.3 (Final Robustness Patch)
 # required_open_webui_version: 0.5.0
