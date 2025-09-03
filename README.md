@@ -1,2 +1,3 @@
 # Openwebui-ComfyUI-Universal-Advanced
-An adanced Function for OpenWebUI for comfyUI
+An advanced Function for OpenWebUI for comfyUI
+Many new features.
